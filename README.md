@@ -1,9 +1,9 @@
 ### About GuyInDoubt!!
 
 -A curious web developer
-- 🔭 I’m currently working on React JS, Node JS
-- 🌱 I’m currently learning php, Express JS
-- 👯 I’m looking to collaborate on React JS, Angular JS
+- 🔭 I’m currently working on React JS, Angular JS
+- 🌱 I’m currently learning php
+- 👯 I’m looking to collaborate on anything innovative
 - 🤔 I’m looking for help with php
 - 📫 How to reach me: guyindoubtx@gmail.com
 - 😄 Pronouns: He/Him
